@@ -19,7 +19,7 @@ export default function Contact() {
         
         {/* GitHub */}
         <a
-          href="https://github.com/fhcalmeida"
+          href="https://github.com/Fernando-Almeida582"
           target="_blank"
           rel="noopener noreferrer"
           className="
@@ -42,13 +42,13 @@ export default function Contact() {
           </p>
 
           <p className="text-xs text-gray-400">
-            fhcalmeida
+            Fernando-Almeida582
           </p>
         </a>
 
         {/* LinkedIn */}
         <a
-          href="https://linkedin.com"
+          href="https://www.linkedin.com/in/fhcalmeida/"
           target="_blank"
           rel="noopener noreferrer"
           className="
@@ -71,13 +71,13 @@ export default function Contact() {
           </p>
 
           <p className="text-xs text-gray-400">
-            /in/seu-perfil
+            in/fhcalmeida
           </p>
         </a>
 
         {/* Email */}
         <a
-          href="mailto:seuemail@gmail.com"
+          href="mailto:fhcalmeida582@gmail.com"
           className="
             group
             rounded-xl
