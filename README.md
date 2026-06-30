@@ -9,15 +9,10 @@ O objetivo é centralizar minhas informações profissionais e servir como vitri
 ## 🖥️ Demonstração
 
 🔗 Acesse o projeto online:  
-https://seu-link-aqui.com
+
 
 ---
 
-## 📸 Preview
-
-> (Adicione aqui um print ou GIF da aplicação)
-
----
 
 ## ⚙️ Tecnologias utilizadas
 
@@ -27,7 +22,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - TypeScript
 - Vite
 - Framer Motion (animações)
-- CSS / Styled Components (ou Tailwind, se usar)
+- Tailwind CSS
 - React Icons
 
 ---
@@ -36,11 +31,5 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - Página inicial com apresentação pessoal
 - Seção de habilidades técnicas
-- Listagem de projetos desenvolvidos
 - Links para GitHub e redes sociais
-- Interface responsiva (mobile e desktop)
 - Animações suaves para melhor experiência do usuário
-
----
-
-## 📁 Estrutura do projeto
